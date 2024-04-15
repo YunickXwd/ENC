@@ -9,7 +9,7 @@ pkg install python -y && pkg install git -y
 ```
 #### Run
 ```
-git clone --depth 1 https://github.com/UNIKBAAP/ENC
+git clone --depth 1 https://github.com/Unik-Xwd/ENC
 cd ENC
 python3 run.py
 ```
